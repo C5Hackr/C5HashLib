@@ -13,7 +13,7 @@ Usage:
 
 --- Best/Most Secure Methods: 1, VMHash, 2, ParseHash. <-- Hash
 
---- Medium/Semi-Secure Methods: LexHash, LLC. <-- Encryption
+--- Medium/Semi-Secure Methods: LexHash, LLC. <-- Encryption's
 
 --- Least Secure Methods: CipHash, C4T. <-- Encrpytion's
 
