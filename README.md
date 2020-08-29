@@ -16,3 +16,6 @@ Usage:
 --- Medium/Semi-Secure Methods: LexHash.
 
 --- Least Secure Methods: CipHash, C4T.
+
+
+Note: VMHash is a VM (Virtual Machine) and what it does is it takes your input and virtualizes the strings to make them short and SUPER SECURE and uncrackable (Most Secure Method).
