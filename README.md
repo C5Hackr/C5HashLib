@@ -24,4 +24,4 @@ Note: To read the hash first hash a string then check the hash to see if it matc
 
 Note: It is NOT recommended to use special characters such as !@#$%^&*()_+-}{[]|\';:",./?>< and etc, etc, etc.
 
-Note: t is NOT recommended to hash things 2 or more times with DIFFERENT hasher's/encryptor's if you want to hash/encrypt somthing more then once and have it still be able to be read then only hash/encrpyt multiple times with 1/the same hasher/encrpytor!
+Note: It is NOT recommended to hash things 2 or more times with DIFFERENT hasher's/encryptor's if you want to hash/encrypt somthing more then once and have it still be able to be read then only hash/encrpyt multiple times with 1/the same hasher/encrpytor!
