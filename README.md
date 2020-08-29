@@ -11,9 +11,9 @@ Usage:
 
 --- HashLib Methods: VMHash(string Input), SerializeHash(string Input), ParseHash(string Input), LexHash(string Input), CipHash(string Input), C4T(string Input), LLC(string Input).
 
---- Best/Most Secure Methods: 1, VMHash, 2, ParseHash. <- Hash
+--- Best/Most Secure Methods: 1, VMHash, 2, ParseHash. <-- Hash
 
---- Medium/Semi-Secure Methods: LexHash, LLC. <- Encryption
+--- Medium/Semi-Secure Methods: LexHash, LLC. <-- Encryption
 
 --- Least Secure Methods: CipHash, C4T. <-- Encrpytion's
 
