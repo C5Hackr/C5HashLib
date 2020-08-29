@@ -9,7 +9,7 @@ Usage:
 
 --- HashLib: C5HashLib.HashMethodHere();
 
---- HashLib Methods: VMHash(string Input), SerializeHash(string Input), ParseHash(string Input), LexHash(string Input), CipHash(string Input), C4T(string Input).
+--- HashLib Methods: VMHash(string Input), SerializeHash(string Input), ParseHash(string Input), LexHash(string Input), CipHash(string Input), C4T(string Input), LLC(string Input).
 
 --- Best/Most Secure Methods: 1, VMHash, 2, ParseHash.
 
