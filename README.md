@@ -11,11 +11,11 @@ Usage:
 
 --- HashLib Methods: VMHash(string Input), SerializeHash(string Input), ParseHash(string Input), LexHash(string Input), CipHash(string Input), C4T(string Input), LLC(string Input).
 
---- Best/Most Secure Methods: 1, VMHash, 2, ParseHash.
+--- Best/Most Secure Methods: 1, VMHash, 2, ParseHash. <- Hash
 
---- Medium/Semi-Secure Methods: LexHash, LLC.
+--- Medium/Semi-Secure Methods: LexHash, LLC. <- Encryption
 
---- Least Secure Methods: CipHash, C4T.
+--- Least Secure Methods: CipHash, C4T. <-- Encrpytion's
 
 
 Note: VMHash is a VM (Virtual Machine) and what it does is it takes your input and virtualizes the strings to make them short and SUPER SECURE and uncrackable (Most Secure Method).
